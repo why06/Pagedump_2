@@ -1,0 +1,12 @@
+Pagedump Data structure
+
+Tables:
+
+user_links
+	ul_id 	|	 		url 		| tagcol_id | category_id
+Ex. 1002034 | http://www.google.com | 	10342 	| 	1034
+
+
+user
+	uid 	|	fname	| lname	 |	minit | username | password  		  | 	  email
+Ex. 1002034 |	Shaun	| Carter |	  J   | why06 	 | password_hash_here | why06mail@gmail.com	
