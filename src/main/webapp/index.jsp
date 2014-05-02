@@ -3,7 +3,7 @@
 <%@page import="java.util.*"%>
 <%@page import="java.sql.*"%>
 <html lang="en">
-    <!-- changed nothing again-->
+    <!-- changed nothing -->
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
