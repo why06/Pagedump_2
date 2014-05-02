@@ -13,8 +13,9 @@
         <meta name="robots" content="index, follow">
         <title>Pagedump</title>
         
+        <script src="dist/respond.min.js"></script>
         <link href="dist/css/bootstrap.min.css" rel="stylesheet">
-        <link href="dist/css/starter-template.css" rel="stylesheet">
+        <link href="dist/css/custom.css" rel="stylesheet">
         
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -24,7 +25,9 @@
         <![endif]-->
         
     </head>
-    <body>
+   
+    <body> 
+      <img src="dist/background1.jpg">
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
@@ -38,9 +41,6 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
